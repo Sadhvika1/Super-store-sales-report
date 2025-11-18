@@ -44,14 +44,3 @@ The dashboard includes:
   - Monthly/Yearly trends  
   - Top 10 profitable and unprofitable products  
 
----
-
-## 🔮 Future Enhancements
-- 📈 Add **forecasting visuals** using Power BI’s analytics tools.  
-- 🧹 Include **data cleaning pipeline** (Python/Excel integration).  
-- 🌐 Publish to **Power BI Service** for online access and sharing.  
-- 🤖 Integrate **predictive analytics** (R/Python visuals).  
-
-
-## 📌 One-line Resume Description
-“Built an interactive **Power BI dashboard** for Super-store sales analysis, uncovering insights into revenue, profit, and customer trends.”
